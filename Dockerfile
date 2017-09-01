@@ -1,5 +1,5 @@
-FROM lsiobase/xenial
-MAINTAINER sparklyballs
+FROM jeeva420/xenial-base
+MAINTAINER "Jeeva Kailasam"
 
 # environment settings
 ARG DEBIAN_FRONTEND="noninteractive"
